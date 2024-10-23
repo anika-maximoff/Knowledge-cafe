@@ -1,14 +1,20 @@
-import { useState } from 'react'
-
 import './App.css'
+import Blog from './Components/Blog'
+import Bookmarks from './Components/Bookmarks'
+import Header from './Components/Header'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
       
-      <h1>Vite + React</h1>
+      <Header></Header>
+      <div className='flex'>
+        <Blog></Blog>
+        <Bookmarks></Bookmarks>
+      </div>
+
       
     </>
   )

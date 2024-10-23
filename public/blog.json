@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "cover_pic": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Exploring the Future of AI",
+      "author": "Jane Doe",
+      "author_image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "posted_date": "2024-10-20",
+      "read_time": 5,
+      "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://images.unsplash.com/photo-1553484771-2a903a7c1f00",
+      "title": "The Art of Mindful Living",
+      "author": "John Smith",
+      "author_image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "posted_date": "2024-10-18",
+      "read_time": 8,
+      "hashtags": ["#Mindfulness", "#Wellness", "#Lifestyle"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "title": "Blockchain Demystified",
+      "author": "Alice Johnson",
+      "author_image": "https://randomuser.me/api/portraits/women/68.jpg",
+      "posted_date": "2024-10-15",
+      "read_time": 7,
+      "hashtags": ["#Blockchain", "#Finance", "#Cryptocurrency"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://images.unsplash.com/photo-1600195077073-1bf9b65d898b",
+      "title": "A Beginner's Guide to Yoga",
+      "author": "David Lee",
+      "author_image": "https://randomuser.me/api/portraits/men/41.jpg",
+      "posted_date": "2024-10-12",
+      "read_time":6,
+      "hashtags": ["#Yoga", "#Health", "#Fitness"]
+    },
+    {
+      "id": 5,
+      "cover_pic": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+      "title": "Mastering the Art of Cooking",
+      "author": "Emily Davis",
+      "author_image": "https://randomuser.me/api/portraits/women/56.jpg",
+      "posted_date": "2024-10-08",
+      "read_time": 11,
+      "hashtags": ["#Cooking", "#Recipes", "#Food"]
+    },
+    {
+      "id": 6,
+      "cover_pic": "https://images.unsplash.com/photo-1556905055-8f358a7a47b1",
+      "title": "Sustainable Fashion: The Future of Clothing",
+      "author": "Chris Martin",
+      "author_image": "https://randomuser.me/api/portraits/men/36.jpg",
+      "posted_date": "2024-10-05",
+      "read_time": 3,
+      "hashtags": ["#Sustainability", "#Fashion", "#EcoFriendly"]
+    }
+  ]
+  
