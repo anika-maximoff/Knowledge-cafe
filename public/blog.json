@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "cover_pic": "https://images.unsplash.com/photo-1553484771-2a903a7c1f00",
+      "cover_pic": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
       "title": "The Art of Mindful Living",
       "author": "John Smith",
       "author_image": "https://randomuser.me/api/portraits/men/32.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "cover_pic": "https://images.unsplash.com/photo-1600195077073-1bf9b65d898b",
+      "cover_pic": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
       "title": "A Beginner's Guide to Yoga",
       "author": "David Lee",
       "author_image": "https://randomuser.me/api/portraits/men/41.jpg",
@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "cover_pic": "https://images.unsplash.com/photo-1556905055-8f358a7a47b1",
+      "cover_pic": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
       "title": "Sustainable Fashion: The Future of Clothing",
       "author": "Chris Martin",
       "author_image": "https://randomuser.me/api/portraits/men/36.jpg",
